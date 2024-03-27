@@ -1,0 +1,2 @@
+# Jarvis_1
+ Using Python, I created a virtual assistant similar to Jarvis from the Iron Man film series. Integrated speech recognition technology that uses the speech_recognition library to interpret voice commands. Custom response creation was implemented depending on specific user requests, using text-to-speech synthesis and the pyttsx3 module. Jarvis has been tailored to reply specifically to specified inquiries or commands, offering a more personalized user experience. Jarvis was configured with a distinct voice to improve user engagement and immersion.
